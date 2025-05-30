@@ -1,2 +1,5 @@
+# Nix
+/.direnv
+
 # Java
 target
