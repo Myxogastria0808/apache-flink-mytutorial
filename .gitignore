@@ -1,0 +1,14 @@
+# Nix
+/.direnv
+
+# Rust
+/server/target
+
+# Scala
+/middle-server/.bsp
+/middle-server/.metals
+/middle-server/project/target
+/middle-server/target
+
+# JavaScript
+/client/node_modules
