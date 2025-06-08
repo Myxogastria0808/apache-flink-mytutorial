@@ -12,6 +12,7 @@
 /middle-server/project/project
 /middle-server/project/target
 /middle-server/target
+/.metals
 
 # JavaScript
 /client/node_modules
