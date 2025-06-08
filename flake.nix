@@ -28,7 +28,7 @@
           mkShell {
             buildInputs = [
               # Java
-              temurin-bin
+              jdk21_headless
               sbt
               # rust
               openssl

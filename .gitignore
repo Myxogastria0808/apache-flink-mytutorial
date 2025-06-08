@@ -5,8 +5,11 @@
 /server/target
 
 # Scala
+/middle-server/.bloop
 /middle-server/.bsp
 /middle-server/.metals
+/middle-server/project/.bloop
+/middle-server/project/project
 /middle-server/project/target
 /middle-server/target
 
