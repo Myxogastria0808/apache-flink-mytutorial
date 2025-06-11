@@ -27,7 +27,7 @@
           with pkgs;
           mkShell {
             buildInputs = [
-              # Java
+              # Scala
               jdk21_headless
               sbt
               # rust
